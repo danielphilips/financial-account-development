@@ -5,6 +5,6 @@
 
 - To know more about our funcionalities and attention points, please acessthe group pages:
 
-- ### [Controllership](https://github.com/danielphilips/financial-account-development/blob/master/controllership.md)
-- ### [Fiscal](https://github.com/danielphilips/financial-account-development/blob/master/fiscal.md)
-- ### [Financial](https://github.com/danielphilips/financial-account-development/blob/master/fiscal.md)
+### [Controllership](https://github.com/danielphilips/financial-account-development/blob/master/controllership.md)
+### [Fiscal](https://github.com/danielphilips/financial-account-development/blob/master/fiscal.md)
+### [Financial](https://github.com/danielphilips/financial-account-development/blob/master/fiscal.md)
